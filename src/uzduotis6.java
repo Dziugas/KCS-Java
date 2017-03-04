@@ -15,7 +15,7 @@ public class uzduotis6 {
         double svoris = sc.nextDouble();
 
         double KMI = svoris/(java.lang.Math.pow(ugis, 2));
-        System.out.print("Kūno masės indeksas yra "+KMI);
+        System.out.print("Tavo kūno masės indeksas yra "+KMI);
 //        KMI = masė (kg) / (ūgis(m))^2
     }
 }
