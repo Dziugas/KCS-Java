@@ -14,8 +14,8 @@ public class Uzduotis3 {
         while(skaicius!=0){
             skaicius = sc.nextInt();
             System.out.println(skaicius);
-            suma=suma+skaicius;
+            suma+=skaicius;
     }
-    System.out.print("suma lygi "+suma);
+    System.out.print("Programa baigta, suma lygi "+suma);
 }
 }
