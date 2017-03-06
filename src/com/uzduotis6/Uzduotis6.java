@@ -1,10 +1,12 @@
+package com.uzduotis6;
+
 import java.util.Scanner;
 
 /**
  * Created by User on 2017-03-04.
  */
-public class uzduotis6 {
-    public static void main (String[] args){
+public class Uzduotis6 {
+    public Uzduotis6(){
 
         System.out.println("Ši programa apskaičiuos tavo kūno masės indeksą - KMI. Įvesk savo ūgį, metrais");
 

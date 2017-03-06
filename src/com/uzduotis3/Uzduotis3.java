@@ -1,10 +1,12 @@
+package com.uzduotis3;
+
 import java.util.Scanner;
 
 /**
  * Created by User on 2017-03-03.
  */
-public class uzduotis3 {
-    public static void main(String[] args){
+public class Uzduotis3 {
+    public Uzduotis3(){
         System.out.println("Ivesk pirma skaiciu");
         Scanner sc=new Scanner(System.in);
         int skaicius1=sc.nextInt();

@@ -1,10 +1,12 @@
+package com.uzduotis1;
+
 import java.util.Scanner;
 
 /**
  * Created by User on 2017-03-03.
  */
-public class uzduotis1 {
-    public static void main(String[] args){
+public class Uzduotis1 {
+    public Uzduotis1(){
         System.out.println("Ivesk savo varda");
         Scanner sc= new Scanner(System.in);
         String vardas= sc.nextLine();

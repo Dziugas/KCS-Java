@@ -1,10 +1,12 @@
+package com.uzduotis4;
+
 import java.util.Scanner;
 
 /**
  * Created by User on 2017-03-03.
  */
-public class uzduotis4 {
-    public static void main(String[] args) {
+public class Uzduotis4 {
+    public Uzduotis4(){
         System.out.println("Ivesk pirma skaiciu");
 
         Scanner sc = new Scanner(System.in);

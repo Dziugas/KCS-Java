@@ -14,14 +14,13 @@ public class uzduotis7a {
 
         Skaiciavimas kmiIndeksas = new Skaiciavimas();
         kmiIndeksas.kmi(ugis, svoris);
-
-        System.out.print("Tavo kūno masės indeksas yra "+kmiIndeksas.kmi(ugis, svoris));
     }
-
-public class Skaiciavimas{
+}
+class Skaiciavimas{
         public double kmi(double ugis, double svoris){
             double indeksas = svoris/(Math.pow(ugis, 2));
+            System.out.print("Tavo kūno masės indeksas yra " + indeksas);
             return(indeksas);
         }
     }
-}
+

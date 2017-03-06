@@ -1,10 +1,12 @@
+package com.uzduotis7;
+
 import java.util.Scanner;
 
 /**
  * Created by User on 2017-03-04.
  */
-public class uzduotis7 {
-    public static void main(String[] args) {
+public class Uzduotis7 {
+    public Uzduotis7() {
         //       Realizuoti 1.6. užduotį panaudojant metodą, kurio parametrai būtų masė ir svoris, o
         //       grąžinama reikšmė, kūno masės indeksas.
         System.out.println("Ši programa apskaičiuos tavo kūno masės indeksą - KMI.");
