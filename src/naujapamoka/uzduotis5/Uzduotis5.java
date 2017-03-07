@@ -26,7 +26,6 @@ public class Uzduotis5 {
         int suma = 0;
         for (int i = 0; i < masyvas.length; i++) {
             System.out.println("Ivestas skaičius " + masyvas[i]);
-
             suma += masyvas[i];
         }
         System.out.print("Visų skaičių suma = " + suma);
