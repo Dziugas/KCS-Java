@@ -13,6 +13,6 @@ public class Main2 {
      //   Uzduotis2 uzduotis2=new Uzduotis2();
      //   Uzduotis3 uzduotis3=new Uzduotis3();
      //   Uzduotis4 uzduotis4=new Uzduotis4();
-        Uzduotis5 uzduotis5 = new Uzduotis5();
+        Uzduotis5 uzduotis5 = new Uzduotis5(8);
     }
 }
