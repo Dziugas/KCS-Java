@@ -15,8 +15,8 @@ import java.util.Scanner;
 
 public class Main2 {
     public static void main(String[] args) {
-        //   Uzduotis1 uzduotis1 = new Uzduotis1();
-        //   Uzduotis2 uzduotis2 = new Uzduotis2();
+        //   Uzduotis1 Uzduotis1 = new Uzduotis1();
+        //   Uzduotis2 Uzduotis2 = new Uzduotis2();
         //   Uzduotis3 uzduotis3 = new Uzduotis3();
         //   Uzduotis4 uzduotis4 = new Uzduotis4();
         //   Uzduotis5 uzduotis5 = new Uzduotis5();

@@ -15,7 +15,6 @@ public class Uzduotis7 {
         double ugis = sc.nextDouble();
         System.out.println("Dabar įvesk savo svorį, kilogramais");
         double svoris = sc.nextDouble();
-
         kmi(ugis, svoris);
         System.out.print("Tavo kūno masės indeksas yra "+kmi(ugis, svoris));
     }
